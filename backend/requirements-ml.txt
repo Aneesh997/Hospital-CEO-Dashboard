@@ -1,0 +1,6 @@
+# Optional advanced forecasting — enables method=prophet / method=xgboost.
+# Pure-python linear forecasting works without these.
+prophet==1.1.5
+xgboost==2.1.1
+pandas==2.2.3
+numpy==2.1.1

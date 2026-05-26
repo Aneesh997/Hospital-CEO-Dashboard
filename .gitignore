@@ -1,0 +1,6 @@
+xeralit-web/.env
+xeralit-web/.venv/
+xeralit-web/__pycache__/
+*.pyc
+xeralit-web/node_modules/
+xeralit-web/.next/
